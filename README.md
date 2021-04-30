@@ -1,6 +1,4 @@
-# ES6 Static Site Renderer ... With Markdown
-
-Simplest way that I could think of to generate a static site with ES6 templates.
+PWA- popup meals
 
 ## Quick Start
 
